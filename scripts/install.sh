@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "PLEASE WAIT....."
 
-wget https://github.com/MatsuriDayo/nekoray/releases/download/2.9/nekoray-2.9-2022-12-19-linux64.zip
+wget https://github.com/MatsuriDayo/nekoray/releases/download/2.19/nekoray-2.19-2023-03-08-linux64.zip
 
 unzip nekoray*.zip
 mkdir ~/.local/
